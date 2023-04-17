@@ -82,7 +82,7 @@ The detail data format is in function **data_from_txt(path)** in data.py
 
 You can transfer the dataset like (CM dataset) to the proper data format yourself. Don't forget  **the higher priority number is bigger**. So you should reverse the priority number.
 
-Or you can use make_data.cpp to generate random data.
+Or you can use /data/make_data.cpp to generate random data.
 
 ## Reference
 - https://github.com/wouterkool/attention-learn-to-route
