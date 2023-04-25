@@ -39,7 +39,9 @@ python config.py -n 9 -s 3 -t 5 -b 128 -bs -2000 -bv 100 -e 30
 
 You will get CRP_9_3_5_train.pkl in /Pkl.
 
-In training data generation，we always generate data like $3*(5-2)=9$ , so there 2 empty tiers in each stack. This setting follows CM dataset. https://www.bwl.uni-hamburg.de/en/iwi/forschung/projekte/dataprojekte/brpinstances-caserta-etal-2012.zip
+In training data generation，we always generate data like $3*(5-2)=9$ , so there 2 empty tiers in each stack. This setting follows CM dataset. 
+
+https://www.bwl.uni-hamburg.de/en/iwi/forschung/projekte/dataprojekte/brp-instances-caserta-etal-2012.zip
 
 #### Training
 
