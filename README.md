@@ -1,6 +1,6 @@
 # CRP_DAM
 "Dynamic Attention Model – A Deep Reinforcement Learning Approach for Container Relocation Problem"
-This paper has been received by IEAAIE2023  http://www.ieaaie2023.com/
+This paper has been received by IEAAIE2023. [Here is the paper link.](https://link.springer.com/chapter/10.1007/978-3-031-36822-6_24)
 
 Feel free to raise any issues.
 
